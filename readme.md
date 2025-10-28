@@ -9,3 +9,5 @@ A simple classic Snake game built with React. Control the snake with arrow keys,
 - Snake wraps around the edges of the board
 - Game ends when snake collides with itself
 - Simple, responsive grid-based UI
+
+Built with ❤️ using React.
