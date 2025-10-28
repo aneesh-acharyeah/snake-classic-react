@@ -16,7 +16,7 @@ This project includes the Snake game implemented within a React component meant 
 
 To run this game in your own environment:
 
-- Replace the contents of your existing `src/App.js` with the code provided here (`SnakeGame.jsx` can be renamed or its content placed directly in `App.js`).
+- Replace the contents of your existing `src/App.js` with the code provided here.
 - Follow the usual React app installation steps (`npm install`, `npm start`) to launch the game locally.
 
 This way, you don't need to import or call the Snake game component separately—it **is** the main app component.
